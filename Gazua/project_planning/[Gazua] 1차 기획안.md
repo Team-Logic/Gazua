@@ -4,15 +4,15 @@
 
 ## <목차>  
 
-* [간단 설명]()
+* [간단 설명](https://github.com/Team-Logic/Gazua/blob/main/Gazua/project_planning/%5BGazua%5D%201%EC%B0%A8%20%EA%B8%B0%ED%9A%8D%EC%95%88.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%84%EB%8B%A8-%EC%84%A4%EB%AA%85)
 
-* [주식 매도]()
+* [주식 매도](https://github.com/Team-Logic/Gazua/blob/main/Gazua/project_planning/%5BGazua%5D%201%EC%B0%A8%20%EA%B8%B0%ED%9A%8D%EC%95%88.md#%EC%A3%BC%EC%8B%9D-%EB%A7%A4%EB%8F%84)
 
-* [적정주가]()
+* [적정주가](https://github.com/Team-Logic/Gazua/blob/main/Gazua/project_planning/%5BGazua%5D%201%EC%B0%A8%20%EA%B8%B0%ED%9A%8D%EC%95%88.md#%EC%A0%81%EC%A0%95%EC%A3%BC%EA%B0%80)
 
-* [시드머니]()
+* [시드머니](https://github.com/Team-Logic/Gazua/blob/main/Gazua/project_planning/%5BGazua%5D%201%EC%B0%A8%20%EA%B8%B0%ED%9A%8D%EC%95%88.md#%EC%8B%9C%EB%93%9C%EB%A8%B8%EB%8B%88)
 
-* [추후에 추가 할 기능들]()  
+* [추후에 추가 할 기능들](https://github.com/Team-Logic/Gazua/blob/main/Gazua/project_planning/%5BGazua%5D%201%EC%B0%A8%20%EA%B8%B0%ED%9A%8D%EC%95%88.md#%EC%B6%94%ED%9B%84%EC%97%90-%EC%B6%94%EA%B0%80-%ED%95%A0-%EA%B8%B0%EB%8A%A5%EB%93%A4)  
 
   
 
