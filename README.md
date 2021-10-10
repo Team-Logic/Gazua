@@ -2,7 +2,7 @@
 
 ### <i><b>Intro<br></i></b>
 >주식 시뮬레이션 가즈아 입니다.<br>
->기획과 과정은 <a target="_blank" href="https://github.com/Team-Logic/Gazua/tree/main/project_planning">이곳</a>에서 보실수 있습니다
+>기획과 과정은 <a href="https://github.com/Team-Logic/Gazua/tree/main/project_planning" target="_blank">이곳</a> 에서 보실수 있습니다
 
 ### <i><b>Member<br></i></b>
  
